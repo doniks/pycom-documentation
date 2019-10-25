@@ -8,7 +8,9 @@ aliases:
 
 ## Linux
 
-You should not need to install any drivers for our devices to be recognised by Linux. You may how ever need to adjust permissions to make sure you have access to the serial port. On most distributions this can be done by adding your user to the `dialout` user group. Please check the specific instructions for your linux distribution for how to do this.
+You should not need to install any drivers for our devices to be recognised by Linux. You may how ever need to adjust permissions to make sure you have access to the serial port. On most distributions this can be done by adding your user to the `dialout` user group.
+
+On many Linux distributions you can check this with the command `groups` and add yourself with `sudo adduser $(id -nu) dialout`. Alternatively, please check the specific instructions for your Linux distribution for how to do this.
 
 ## macOS
 
