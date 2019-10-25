@@ -117,7 +117,7 @@ aliases:
 If you intend on using the LoRa/Sigfox connectivity of the LoPy4 you **must** connect a LoRa/Sigfox antenna to your LoPy4 before trying to use LoRa/Sigfox otherwise you risk damaging the device.
 {{% /hint %}}
 
-* Firstly you will need to connect the U.FL to SMA pig tail to the LoPy4 using one of the two the U.FL connectors on the same side of the LoPy4 as the LED. The one on the left hand side is for 433MHz (LoRa only), the one of the right hand side is for 868MHz/915MHz (LoRa & Sigfox). **Note:** This is different from the LoPy.
+* Firstly you will need to connect the U.FL to SMA pig tail to the LoPy4 using one of the two U.FL connectors on the same side of the LoPy4 as the LED. The one on the left hand side is for 433MHz (LoRa only), the one of the right hand side is for 868MHz/915MHz (LoRa & Sigfox). **Note:** This is different from the LoPy.
 
 ![](/gitbook/assets/lora_sigfox_pigtail_lopy4.png)
 
