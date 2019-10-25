@@ -38,7 +38,7 @@ After installing the Pymakr Plugin, you need to take a few seconds to configure 
 
    Note: you don't need the wire for Expansion Board 3.0
 
-2. Open Atom and ensure that the Pymakr Plugin has correctly installed.
+2. Open Atom and ensure that the Pymakr Plugin is installed correctly. You should see the Pycom logo and the status "Disconnected".
 
 ![](/gitbook/assets/atom_config_step_2-1.png)
 
@@ -82,4 +82,3 @@ After installing the Pymakr Plugin, a device may be connected via the telnet int
 5. Click `Connect` in the Pymakr pane, Pymakr will now connect via telnet.
 
 ![](/gitbook/assets/pymakr-plugin-settings-1.png)
-
