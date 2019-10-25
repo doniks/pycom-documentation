@@ -127,7 +127,7 @@ If you intend on using the LoRa/Sigfox connectivity of the LoPy4 you **must** co
 ![](/gitbook/assets/lora_sigfox_pigtail_ant_lopy4.png)
 
 {{% hint style="danger" %}}
-Since the LoRa chip only runs on one frequency band at a time you only need to connect an antenna to the appropriate U.FL connecor. You should be supplied with a the antenna that suits the band you intend using.
+Since the LoRa chip only runs on one frequency band at a time you only need to connect an antenna to the appropriate U.FL connector. You should be supplied with a the antenna that suits the band you intend using.
 {{% /hint %}}
 
 ### WiFi/Bluetooth (optional)
